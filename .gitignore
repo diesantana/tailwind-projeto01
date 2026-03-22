@@ -1,0 +1,9 @@
+# Dependencies
+/node_modules
+
+# VS Code files (optional, but recommended to share certain settings)
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
